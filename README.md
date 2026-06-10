@@ -1,2 +1,19 @@
 # PSIB2026Q1-TPI-Grupo10-Caroccia-Kestelboim-Suarez
-Trabajo práctico de imágenes (TPI): Detección y segmentación de tumores cerebrales. Procesamiento de Señales e Imágenes Biomédicas 1er Cuatrimestre de 2026. Grupo 10
+Repositorio correspondiente al Trabajo Práctico Integrador de la materia PSIB2026Q1.
+
+## Integrantes
+
+- Caroccia
+- Andrés Kestelboim
+- Suarez
+
+## Contenido del repositorio
+
+### Informe
+- `PSIB2026Q1-TPI-Grupo10-Caroccia-Kestelboim-Suarez.pdf`
+
+### Código
+- `PSIB2026Q1-TPI-Grupo10-Caroccia-Kestelboim-Suarez.ipynb`
+
+### Presentación
+- `PSIB2026Q1-TPI-Grupo10-Caroccia-Kestelboim-Suarez.pptx`
