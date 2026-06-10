@@ -3,9 +3,9 @@ Repositorio correspondiente al Trabajo Práctico Integrador de la materia PSIB20
 
 ## Integrantes
 
-- Caroccia
+- Franco Caroccia
 - Andrés Kestelboim
-- Suarez
+- Iván Nicolas Suarez
 
 ## Contenido del repositorio
 
